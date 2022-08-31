@@ -1,2 +1,2 @@
-![ZIL](CT.jpg)
-![ZIL](CT2.jpg)
+![ZIL](CT.png)
+![ZIL](CT2.png)
